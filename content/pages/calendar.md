@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics by week.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

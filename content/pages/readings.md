@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides citations and links to the readings assigned for
+  each weekly session of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -553,7 +555,7 @@ Richardson, Heather Cox. _The Death of Reconstruction: Race, Labor, and Politics
 
 Nevins, Allan. _The State Universities and Democracy_. University of Illinois Press, 1962.
 
-Wade, Kathryn L. A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Intent and Fulfillment of the Morrill Act of 1862." (PDF)](https://etd.auburn.edu/xmlui/bitstream/handle/10415/677/WADE_KATHRYN_23.pdf?sequence=1) M. A. Thesis, Auburn University, 2005.
+Wade, Kathryn L. A. ["The Intent and Fulfillment of the Morrill Act of 1862." (PDF)](https://etd.auburn.edu/xmlui/bitstream/handle/10415/677/WADE_KATHRYN_23.pdf?sequence=1) M. A. Thesis, Auburn University, 2005.
 
 Becker, Carl. _Cornell University: Founders and the Founding_. Fall Creek Books, 2010. ISBN: 9780801476150. \[Preview with [Google Books](http://books.google.com/books?id=sW84RjucQG0C&pg=PAfrontcover)\]
 
