@@ -13,10 +13,10 @@ image_metadata:
   image-alt: A photograph of a group of people, dressed in Civil War uniforms, standing
     by a cannon. The cannon has just gone off.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Civil War reenacters fire a cannon (thumbnail)
 uid: d0a9e2b4-5b2d-2566-4f87-135d5f1ae3b1
 ---
 Thumbnail of a photo of a group of Civil War reenacters firing a cannon, one of the most widely-used weapons of the time. Image courtesy of Jay Williams on Flickr. CC BY-NC-SA 2.0.
-
