@@ -37,11 +37,11 @@ General Histories of the War
 {{< tdopen >}}
 
 
-McPherson, James M. _Battle Cry of Freedom: The Civil War Era_. Oxford University Press, 1988. ISBN: 9780195038637. \[Preview with [Google Books](http://books.google.com/books?id=a3nX48n4oeIC&pg=PAfrontcover)\]
+McPherson, James M. _Battle Cry of Freedom: The Civil War Era_. Oxford University Press, 1988. ISBN: 9780195038637. \[Preview with {{% resource_link "899b9fc0-ac6d-4595-adbd-9ccde5397511" "Google Books" %}}\]
 
 *   The best single volume treatment of the war. Highly recommended.
 
-Guelzo, Allen. _Fateful Lightning: A New History of the Civil War & Reconstruction_. Oxford University Press, 2012. ISBN: 9780199843282. \[Preview with [Google Books](http://books.google.com/books?id=313dh9YAiE4C&pg=PAfrontcover)\]
+Guelzo, Allen. _Fateful Lightning: A New History of the Civil War & Reconstruction_. Oxford University Press, 2012. ISBN: 9780199843282. \[Preview with {{% resource_link "50a08800-1cda-4585-b8dc-3af7f5ee9636" "Google Books" %}}\]
 
 *   The latest history of the war. Well reviewed, thus far.
 
@@ -51,11 +51,11 @@ Nevins, Allan. _The War for the Union_. Vol. 4. Scribner's, 1959.
 
 Catton, Bruce. _This Hallowed Ground The Story of the Union Side of the Civil War_. Doubleday, 1956. (An Older Classic.)
 
-Hattaway, Herman. _Shades of Blue and Gray: An Introductory Military History of the Civil War_. University of Missouri, 1997. ISBN: 9780826211071. \[Preview with [Google Books](http://books.google.com/books?id=rakfsLZTmuYC&pg=Pafrontcover)\]
+Hattaway, Herman. _Shades of Blue and Gray: An Introductory Military History of the Civil War_. University of Missouri, 1997. ISBN: 9780826211071. \[Preview with {{% resource_link "66425ee1-124a-4299-8479-050351e12093" "Google Books" %}}\]
 
 Donald, David. _Liberty and Union_. D. C. Heath & Company, 1978. ISBN: 9780669011524.
 
-Masur, Louis P. _The Civil War: A Concise History_. Oxford University Press, 2011. ISBN: 9780199740482. \[Preview with [Google Books](http://books.google.com/books?id=t7ZoAgAAQBAJ&pg=PAfrontcover)\]
+Masur, Louis P. _The Civil War: A Concise History_. Oxford University Press, 2011. ISBN: 9780199740482. \[Preview with {{% resource_link "c21c84fe-ab30-4a73-94a2-6b23c6ed09d9" "Google Books" %}}\]
 
 *   The best brief treatment of the war.
 
@@ -83,7 +83,7 @@ Cooper, William, and James McPherson. _Writing the Civil War: The Quest to Under
 
 *   An excellent set of historiographic appraisals of Civil War literature, though somewhat dated.
 
-Woodworth, Steven E., ed. _The American Civil War: A Handbook of Literature and Research_. Greenwood, 1996. ISBN: 9780313290190. \[Preview with [Google Books](http://books.google.com/books?id=rb3ANWoZt1YC&pg=PAfrontcover)\]
+Woodworth, Steven E., ed. _The American Civil War: A Handbook of Literature and Research_. Greenwood, 1996. ISBN: 9780313290190. \[Preview with {{% resource_link "56834932-2fbf-490b-82ba-77bd4ad8b1a8" "Google Books" %}}\]
 
 Pressly, Thomas J. _Americans Interpret their Civil War_. The Free Press, 1962.
 
@@ -105,11 +105,11 @@ Historiography of Technology
 
 Hindle, Brooke. _Technology in Early America: Needs; Opportunities for Study_. Chapel Hill, 1966.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262515627) Martello, Robert, and Merritt Roe Smith. "Taking Stock of the Industrial Revolution in America." In _Reconceptualizing the Industrial Revolution_. Edited by J. Horn, L. Rosenband, and M. R. Smith. MIT Press, 2010, pp. 169–200. ISBN: 9780262515627. \[Preview with [Google Books](http://books.google.com/books?id=Y8DQKhDqC50C&pg=PA169#v=onepage)\]
+{{% resource_link "2faeeeee-2c92-457f-b15e-bbe84441efdd" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Martello, Robert, and Merritt Roe Smith. "Taking Stock of the Industrial Revolution in America." In _Reconceptualizing the Industrial Revolution_. Edited by J. Horn, L. Rosenband, and M. R. Smith. MIT Press, 2010, pp. 169–200. ISBN: 9780262515627. \[Preview with {{% resource_link "df3c4fdc-3a6e-4bb2-8cc8-c0dde0972149" "Google Books" %}}\]
 
 *   A historiographic treatment of technology in America up to the Civil War.
 
-Usselman, Stephen W. "[From Sputnik to SCOT: The Historiography of American Technology](http://dx.doi.org/10.2307/maghis/24.3.9)." _Organization of American Historians Magazine of American History_ 24, no. 3 (2010): 9–14.
+Usselman, Stephen W. "{{% resource_link "8374df5b-94be-4d4e-a508-f7a9e148d3a6" "From Sputnik to SCOT: The Historiography of American Technology" %}}." _Organization of American Historians Magazine of American History_ 24, no. 3 (2010): 9–14.
 
 *   An excellent short treatment of the subject.
 
@@ -129,11 +129,11 @@ The Political Scene
 
 ### Why the Southern States Seceded
 
-Dew, Charles. _Apostles of Disunion: Southern Secession Commissioners and the Causes of the Civil War_. University of Virginia Press, 2002. ISBN: 9780813921044. \[Preview with [Google Books](http://books.google.com/books?id=GgOGfArAsXYC&pg=PAfrontcover)\]
+Dew, Charles. _Apostles of Disunion: Southern Secession Commissioners and the Causes of the Civil War_. University of Virginia Press, 2002. ISBN: 9780813921044. \[Preview with {{% resource_link "cdea0ad8-2304-460e-8ec4-fe94cd08798a" "Google Books" %}}\]
 
 ### Abraham Lincoln
 
-Marszalek, John F. _Lincoln and the Military_. Southern Illinois University Press, 2014. ISBN: 9780809333615. \[Preview with [Google Books](http://books.google.com/books?id=vOSqBAAAQBAJ&pg=PAfrontcover)\]
+Marszalek, John F. _Lincoln and the Military_. Southern Illinois University Press, 2014. ISBN: 9780809333615. \[Preview with {{% resource_link "ea09818c-5279-4187-85ae-ce703609d4a2" "Google Books" %}}\]
 
 Goodwin, Doris Kearns. _Team of Rivals (The Political Genius of Abraham Lincoln)_. Simon & Schuster, 2005.
 
@@ -143,13 +143,13 @@ Donald, David. _Lincoln_. Simon & Schuster, 1995. ISBN: 9780684808468.
 
 *   The best single volume biography of Lincoln. There are many.
 
-McPherson, James. _Tried by War: Abraham Lincoln as Commander in Chief_. Penguin Press H. C., 2008. \[Preview with [Google Books](http://books.google.com/books?id=Bi5UlY2IadMC&pg=PAfrontcover)\]
+McPherson, James. _Tried by War: Abraham Lincoln as Commander in Chief_. Penguin Press H. C., 2008. \[Preview with {{% resource_link "54733d81-e1af-4139-abf9-50f6957d82d0" "Google Books" %}}\]
 
 ———. _Abraham Lincoln_. Oxford University Press, 2009. ISBN: 9780195374520.
 
 Foner, Eric. _The Fiery Trial: Abraham Lincoln and American Slavery_. W. W. Norton & Company, 2010. ISBN: 9780393066180.
 
-Cohen, Eliot A. _Supreme Command: Soldiers, Statesmen, and Leadership in Wartime_. Free Press, 2002, pp. 15–51. \[Preview with [Google Books](http://books.google.com/books?id=E3rl30TO2CAC&pg=PA15#v=onepage)\]
+Cohen, Eliot A. _Supreme Command: Soldiers, Statesmen, and Leadership in Wartime_. Free Press, 2002, pp. 15–51. \[Preview with {{% resource_link "bca2c512-6e72-4d2b-9ded-1a70c93c9433" "Google Books" %}}\]
 
 *   A very perceptive discussion of Lincoln as a war president.
 
@@ -189,43 +189,43 @@ Grant, U. S. _Personal Memoirs of U.S. Grant_. Vol. 2. Charles L. Webster & Comp
 
 Joan Waugh's reflective essay on the "Personal Memoirs of U.S. Grant: A History of the Union Cause." In _More Than a Contest Between Armies: Essays on the Civil War Era_. Edited by James Marten and A. Kristen Foster. Kent State University Press, 2008, pp. 219–49. ISBN: 9780873389129.
 
-Ballard, Michael B. _U.S. Grant: The Making of a General, 1861–1863_. Rowman & Littlefield Publishers, 2005. ISBN: 9780742543089. \[Preview with [Google Books](http://books.google.com/books?id=JjKeQfRrUdIC&pg=PAfrontcover)\]
+Ballard, Michael B. _U.S. Grant: The Making of a General, 1861–1863_. Rowman & Littlefield Publishers, 2005. ISBN: 9780742543089. \[Preview with {{% resource_link "84c321fa-8d1c-4f98-bfb5-03bfd67a8df2" "Google Books" %}}\]
 
-McPherson, James M. _Crossroads of Freedom: Antietam_. Oxford University Press, 2002. ISBN: 9780195173307. \[Preview with [Google Books](http://books.google.com/books?id=YJds82Zpt6IC&pg=PAfrontcover)\]
+McPherson, James M. _Crossroads of Freedom: Antietam_. Oxford University Press, 2002. ISBN: 9780195173307. \[Preview with {{% resource_link "0cd8f5dc-74d1-4274-8222-6bf6b99575cd" "Google Books" %}}\]
 
 ———. _Hallowed Ground: A Walk at Gettysburg_. Crown Publishing Group, 2003.
 
-Wert, Jeffrey D. _The Sword of Lincoln: The Army of the Potomac_. Simon & Schuster, 2005. ISBN: 9780743225069. \[Preview with [Google Books](http://books.google.com/books?id=8swD-0330ocC&pg=PAfrontcover)\]
+Wert, Jeffrey D. _The Sword of Lincoln: The Army of the Potomac_. Simon & Schuster, 2005. ISBN: 9780743225069. \[Preview with {{% resource_link "a05ba688-6662-452e-bb87-ffa390b1630d" "Google Books" %}}\]
 
 Hagerman, Edward. _The American Civil War and the Origins of Modern Warfare: Ideas, Organization, and Field Command_. Indiana University Press, 1988. ISBN: 9780253305466.
 
 Hess, Earl J. _The Union Soldier in Battle: Enduring the Ordeal of Combat_. University Press of Kansas, 1997. ISBN: 9780700614219.
 
-———. _Trench Warfare under Grant and Lee: Field Fortifications in the Overland Campaign_. The University of North Carolina Press, 2007. ISBN: 9780807831540. \[Preview with [Google Books](http://books.google.com/books?id=jksx6u51oaMC&pg=PAfrontcover)\]
+———. _Trench Warfare under Grant and Lee: Field Fortifications in the Overland Campaign_. The University of North Carolina Press, 2007. ISBN: 9780807831540. \[Preview with {{% resource_link "747fa3bc-dcdc-4705-b0e2-1029506923f1" "Google Books" %}}\]
 
-———. _In the Trenches at Petersburg: Field Fortifications and Confederate Defeat_. The University of North Carolina Press, 2009. ISBN: 9780807832820. \[Preview with [Google Books](http://books.google.com/books?id=oTyqgowD06UC&pg=PAfrontcover)\]
+———. _In the Trenches at Petersburg: Field Fortifications and Confederate Defeat_. The University of North Carolina Press, 2009. ISBN: 9780807832820. \[Preview with {{% resource_link "6f4f273a-e270-4d92-8c80-0037b2d13f46" "Google Books" %}}\]
 
 ———. _The Rifle Musket in Civil War Combat: Reality and Myth_. University Press of Kansas, 2008. ISBN: 9780700616077.
 
-Glatthaar, Joseph T. _General Lee's Army: From Victory to Collapse_. Free Press, 2008. ISBN: 9780684827872. \[Preview with [Google Books](http://books.google.com/books?id=ejRERplU3HkC&pg=PAfrontcover)\]
+Glatthaar, Joseph T. _General Lee's Army: From Victory to Collapse_. Free Press, 2008. ISBN: 9780684827872. \[Preview with {{% resource_link "cdb8783f-99e9-42b5-ad1c-bad26abe68c2" "Google Books" %}}\]
 
 Gallagher, Gary. _The Confederate War_. Harvard University Press, 1997. ISBN: 9780674160552.
 
-Rafuse, Ethan S. _Robert E. Lee and the Fall of the Confederacy, 1863–1865_. Rowman & Littlefield Publishers, 2008. ISBN: 9780742551251. \[Preview with [Google Books](http://books.google.com/books?id=KR51lzhKDwYC&pg=PAfrontcover)\]
+Rafuse, Ethan S. _Robert E. Lee and the Fall of the Confederacy, 1863–1865_. Rowman & Littlefield Publishers, 2008. ISBN: 9780742551251. \[Preview with {{% resource_link "0c93baa7-fe30-4cd8-9d85-d9a3ccd688fa" "Google Books" %}}\]
 
 ### The War at Sea
 
 Musicant, Ivan. _Divided Waters: The Naval History of the Civil War_. Harpercollins, 1995. ISBN: 9780060164829.
 
-Symonds, Craig L. _The Civil War at Sea_. Praeger, 2009. ISBN: 9780275990848. \[Preview with [Google Books](http://books.google.com/books?id=OYAnOfSJyjkC&pg=PAfrontcover)\]
+Symonds, Craig L. _The Civil War at Sea_. Praeger, 2009. ISBN: 9780275990848. \[Preview with {{% resource_link "256f63d1-c8c3-4e6b-b970-326f4b198c69" "Google Books" %}}\]
 
 Hoogenboom, Ari. _Gustavus Fox of the Union Navy: A Biography_. Johns Hopkins University Press, 2008. ISBN: 9780801889868.
 
-Mindell, David A. _War, Technology, and Experience Aboard the USS Monitor_. The Johns Hopkins University Press, 2000. ISBN: 9780801862502. \[Preview with [Google Books](http://books.google.com/books?id=8E6ug5RcKT4C&pg=PAfrontcover)\] (Re-issued as Iron Coffin (2012).)
+Mindell, David A. _War, Technology, and Experience Aboard the USS Monitor_. The Johns Hopkins University Press, 2000. ISBN: 9780801862502. \[Preview with {{% resource_link "93b2ae44-0251-4c22-bdca-54e8a7a6b94f" "Google Books" %}}\] (Re-issued as Iron Coffin (2012).)
 
-Roberts, William H. _Civil War Ironclads: The U.S. Navy and Industrial Mobilization_. Johns Hopkins University Press, 2002. ISBN: 9780801868306. \[Preview with [Google Books](http://books.google.com/books?id=AVP6XQzmrZ8C&pg=PAfrontcover)\]
+Roberts, William H. _Civil War Ironclads: The U.S. Navy and Industrial Mobilization_. Johns Hopkins University Press, 2002. ISBN: 9780801868306. \[Preview with {{% resource_link "eb4feed9-0b70-4ba4-862b-afe2c7202bb6" "Google Books" %}}\]
 
-———. _Now for the Contest: Coastal and Oceanic Naval Operations of the Civil War_. University of Nebraska Press, 2004. ISBN: 9780803238619. \[Preview with [Google Books](http://books.google.com/books?id=ZwJDUQepcHYC&pg=PAfrontcover)\]
+———. _Now for the Contest: Coastal and Oceanic Naval Operations of the Civil War_. University of Nebraska Press, 2004. ISBN: 9780803238619. \[Preview with {{% resource_link "583acff4-abb6-4d98-9386-d0d5ebb69266" "Google Books" %}}\]
 
 Dougherty, Kevin. _Strangling the Confederacy: Coastal Operations in the American Civil War_. Casemate, 2010. ISBN: 9781935149248.
 
@@ -233,7 +233,7 @@ Symonds, Craig L. _Union Combined Operations in the Civil War_. Fordham Universi
 
 Still, William N., et al. _Raiders and Blockaders: The American Civil War Afloat_. Brassey's Incorporation, 1998. ISBN: 9781574881646.
 
-McPherson, James M. _War on the Waters: The Union and Confederate Navies, 1861–1865_. The University of North Carolina Press, 2012. ISBN: 9780807835883. \[Preview with [Google Books](http://books.google.com/books?id=80LQH0Aoe3QC&pg=PAfrontcover)\]
+McPherson, James M. _War on the Waters: The Union and Confederate Navies, 1861–1865_. The University of North Carolina Press, 2012. ISBN: 9780807835883. \[Preview with {{% resource_link "f12fd4c6-9349-400b-93e3-10b48d76dfce" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -251,7 +251,7 @@ Supply Bureaus and Logistics
 
 ### Union Army
 
-Smith, Merritt Roe. "Army Ordnance and the American System." In _Military Enterprise and Technological Change_. MIT Press, 1985, pp. 39–86. ISBN: 9780262192392. \[Preview with [Google Books](http://books.google.com/books?id=ukk6jtvWtMoC&pg=PA40#v=onepage)\]
+Smith, Merritt Roe. "Army Ordnance and the American System." In _Military Enterprise and Technological Change_. MIT Press, 1985, pp. 39–86. ISBN: 9780262192392. \[Preview with {{% resource_link "85edc201-8bb8-4815-b133-1d5676e85d4d" "Google Books" %}}\]
 
 ———. "Yankee Armorers and the Union War Machine: A Technological Perspective on the American Civil War." In _Astride Two Worlds: Technology and the American Civil War._ Edited by Barton C. Hacker. Smithsonian Institution Scholarly Press, 2016. pp. 25-54. ISBN: 9781935623915
 
@@ -259,9 +259,9 @@ Bruce, Robert. _Lincoln and the Tools of War_. Literary Licensing, Limited Liabi
 
 Davis, Carl L. _Arming the Union: Small Arms in the Union Army_. Kennikat, 1973. ISBN: 9780804690447.
 
-Raber, Michael S., et al. [_Forge of Innovation: An Industrial History of the Springfield Armory, 1794–1968_](http://www.forgeofinnovation.org/Springfield_Armory_1794-1812/index.html). 2008, pp. 19–25, 41–45, 227–32, 264–69, and 292–309.
+Raber, Michael S., et al. {{% resource_link "0d8b02b0-58fa-4d8c-a6d6-5df46b8f936f" "_Forge of Innovation: An Industrial History of the Springfield Armory, 1794–1968_" %}}. 2008, pp. 19–25, 41–45, 227–32, 264–69, and 292–309.
 
-Farley, James J. _Making Arms in the Machine Age: Philadelphia's Frankford Arsenal, 1816–1870_. Penn State University Press, 1994. ISBN: 9780271028217. \[Preview with [Google Books](http://books.google.com/books?id=tbfZdZxr3cQC&pg=PAfrontcover)\]
+Farley, James J. _Making Arms in the Machine Age: Philadelphia's Frankford Arsenal, 1816–1870_. Penn State University Press, 1994. ISBN: 9780271028217. \[Preview with {{% resource_link "56666ac3-4b38-4ce0-9eb2-18de058a6fe7" "Google Books" %}}\]
 
 Tate, Thomas K. _General James Wolfe Ripley, Chief of Ordnance: Answers to His Critics_. BookSurge Publishing, 2008. ISBN: 9781439207338.
 
@@ -271,9 +271,9 @@ Nosworthy, Brent. _The Bloody Crucible of Courage: Fighting Methods and Combat E
 
 Bilby, Joseph G. _Small Arms at Gettysburg: Infantry and Cavalry Weapons in America's Greatest Battle_. Westholme Publishing, 2008.
 
-Wilson, Mark. _The Business of War: Military Mobilization and the State, 1861–1865_. Johns Hopkins University Press, 2006. ISBN: 9780801883484. \[Preview with [Google Books](http://books.google.com/books?id=Wcs0mQXgBQ4C&pg=PAfrontcover)\]  
+Wilson, Mark. _The Business of War: Military Mobilization and the State, 1861–1865_. Johns Hopkins University Press, 2006. ISBN: 9780801883484. \[Preview with {{% resource_link "ddd85146-6d4f-4907-9f01-53f8051449f2" "Google Books" %}}\]  
 Also see Wilson's condensed version of his book in  
-John, Richard, ed. _Ruling Passions: Political Economy in Nineteenth-Century America_. Penn State University Press, 2006, pp. 44–73. ISBN: 9780271028972. \[Preview with [Google Books](http://books.google.com/books?id=Zr_UeuCOgvQC&pg=PA44#v=onepage)\]
+John, Richard, ed. _Ruling Passions: Political Economy in Nineteenth-Century America_. Penn State University Press, 2006, pp. 44–73. ISBN: 9780271028972. \[Preview with {{% resource_link "128ca06e-89e0-4674-82fa-4f3787ce5a8a" "Google Books" %}}\]
 
 *   Wilson's work is the best that exists on the work of the U.S. Army Quartermaster Department.
 
@@ -283,7 +283,7 @@ Abrahamson, James L. _The American Home Front: Revolutionary War, Civil War, Wor
 
 Gates, Paul W. _Agriculture and the Civil War_. Knopf, 1965.
 
-Hsieh, Wayne Sei-Siang. _West Pointers and the Civil War: The Old Army in War and Peace_. The University of North Carolina Press, 2009. ISBN: 9780807832783. \[Preview with [Google Books](http://books.google.com/books?id=e6b3AM0EpnEC&pg=PAfrontcover)\]
+Hsieh, Wayne Sei-Siang. _West Pointers and the Civil War: The Old Army in War and Peace_. The University of North Carolina Press, 2009. ISBN: 9780807832783. \[Preview with {{% resource_link "cee1e4f6-4b9c-41cd-9aaa-ca573e444997" "Google Books" %}}\]
 
 Haupt, Herman. _Reminiscences of General Herman Haupt_. University of Michigan Library, 1901.
 
@@ -297,19 +297,19 @@ Vandiver, Frank E. _Rebel Brass: The Confederate Command System_. Louisiana Stat
 
 Coulter, E. Merton. _The Confederate States of America, 1861–1865: A History of the South_. Louisiana State University Press, 1950. ISBN: 9780807100073.
 
-Wilson, Harold S. _Confederate Industry: Manufacturers and Quartermasters in the Civil War_. University Press of Mississippi, 2002. ISBN: 9781578064625. \[Preview with [Google Books](http://books.google.com/books?id=Hmweh1VtxUAC&pg=PAfrontcover)\]
+Wilson, Harold S. _Confederate Industry: Manufacturers and Quartermasters in the Civil War_. University Press of Mississippi, 2002. ISBN: 9781578064625. \[Preview with {{% resource_link "fb01a98f-6109-4089-a848-cd305d89c14e" "Google Books" %}}\]
 
-Tate, Thomas K. _From Under Iron Eyelids: The Biography of James Henry Burton, Armorer to Three Nations_. Author House, 2005. ISBN: 9781420821260. \[Preview with [Google Books](http://books.google.com/books?id=iQJyOdUI8JYC&pg=PAfrontcover)\]
+Tate, Thomas K. _From Under Iron Eyelids: The Biography of James Henry Burton, Armorer to Three Nations_. Author House, 2005. ISBN: 9781420821260. \[Preview with {{% resource_link "f1660f86-4e56-4c45-841e-3a19ecc64380" "Google Books" %}}\]
 
-Delfino, Susan, and Michele Gillespie, eds. _Technology, Innovation, and Southern Industrialization: From the Antebellum Era to the Computer Age_. University of Missouri Press, 2008. \[Preview with [Google Books](http://books.google.com/books?id=L-FUbk2cbE8C&pg=PAfrontcover)\]
+Delfino, Susan, and Michele Gillespie, eds. _Technology, Innovation, and Southern Industrialization: From the Antebellum Era to the Computer Age_. University of Missouri Press, 2008. \[Preview with {{% resource_link "75973030-836a-462a-9d1b-72968b768b1b" "Google Books" %}}\]
 
 Davis, Jr., Robert S. _Cotton, Fire, and Dreams: The Robert Findlay Iron Works and Heavy Industry in Macon, Georgia, 1839–1912_. Mercer University Press, 1998. ISBN: 9780865545984.
 
-Norman, Matthew W. _Colonel Burton's Spiller & Burr Revolver: An Untimely Venture in Confederate Small-Arms Manufacturing_. Mercer University Press, 1996. \[Preview with [Google Books](http://books.google.com/books?id=3fsSZbrQFYUC&pg=PAfrontcover)\]
+Norman, Matthew W. _Colonel Burton's Spiller & Burr Revolver: An Untimely Venture in Confederate Small-Arms Manufacturing_. Mercer University Press, 1996. \[Preview with {{% resource_link "3b648722-4291-41e2-9709-57875ee2042b" "Google Books" %}}\]
 
 Iobst, Richard W. _Civil War Macon_. Mercer University Press, 1999. ISBN: 9780865546349.
 
-Majewski, John. _Modernizing a Slave Economy_. The University of North Carolina Press, 2009. \[Preview with [Google Books](http://books.google.com/books?id=7362UaSaH0YC&pg=PAfrontcover)\]
+Majewski, John. _Modernizing a Slave Economy_. The University of North Carolina Press, 2009. \[Preview with {{% resource_link "439e92cb-db51-4762-bcd1-554a1fc996b1" "Google Books" %}}\]
 
 _Logistics_
 
@@ -331,7 +331,7 @@ Transportation and Communication Networks
 
 ### Union Railroads
 
-Angevine, Robert G. _The Railroad and the State: War, Politics, and Technology in Nineteenth-Century America_. Stanford University Press, 2004. ISBN: 9780804742399. \[Preview with [Google Books](http://books.google.com/books?id=kY1jrcISOOoC&pg=PAfrontcover)\]
+Angevine, Robert G. _The Railroad and the State: War, Politics, and Technology in Nineteenth-Century America_. Stanford University Press, 2004. ISBN: 9780804742399. \[Preview with {{% resource_link "306c3868-5194-4f35-8cad-365241028897" "Google Books" %}}\]
 
 Abdill, George B. _Civil War Railroads_. Superior Publishing Company, 1961. ISBN: 9780517012437.
 
@@ -355,13 +355,13 @@ Black, Thomas C. _The Railroads of the Confederacy_. The University of North Car
 
 *   The standard treatment of the subject.
 
-Marrs, Aaron W. _Railroads in the Old South: Pursuing Progress in a Slave Society_. Johns Hopkins University Press, 2009. ISBN: 9780801891304. \[Preview with [Google Books](http://books.google.com/books?id=yPIE245tCCwC&pg=PAfrontcover)\]
+Marrs, Aaron W. _Railroads in the Old South: Pursuing Progress in a Slave Society_. Johns Hopkins University Press, 2009. ISBN: 9780801891304. \[Preview with {{% resource_link "29664f93-eee5-45fe-b199-7ec9bca2f285" "Google Books" %}}\]
 
 ### Steamboats
 
 See Delfino (above)
 
-Hunter, Louis C. _Steamboats on Western Rivers: An Economic and Technological History_. Harvard University Press, 1949. \[Preview with [Google Books](http://books.google.com/books?id=JzLN2GACaIYC&pg=PAfrontcover)\]  
+Hunter, Louis C. _Steamboats on Western Rivers: An Economic and Technological History_. Harvard University Press, 1949. \[Preview with {{% resource_link "e4a1fb09-3717-45a5-b99b-afd0067f5f50" "Google Books" %}}\]  
 A classic.
 
 Gudmestad, Robert. _Steamboats and the Rise of the Cotton Kingdom_. Louisiana State University Press, 2011. ISBN: 9780807138397.
@@ -370,7 +370,7 @@ Gudmestad, Robert. _Steamboats and the Rise of the Cotton Kingdom_. Louisiana St
 
 Hochfelder, David. Chapter 1 in _The Telegraph in America_. Johns Hopkins University Press, 2011. ISBN: 9781421407470.
 
-Cohen, Eliot. _Supreme Command: Soldiers, Statesmen, and Leadership in Wartime_. Free Press, 2002, pp. 23–29. ISBN: 9780743230490. \[Preview with [Google Books](http://books.google.com/books?id=E3rl30TO2CAC&pg=PA23#v=onepage)\]
+Cohen, Eliot. _Supreme Command: Soldiers, Statesmen, and Leadership in Wartime_. Free Press, 2002, pp. 23–29. ISBN: 9780743230490. \[Preview with {{% resource_link "c8f92edd-f089-474a-9eb0-604f063c997e" "Google Books" %}}\]
 
 Raines, Rebecca R. _Getting the Message through: A Branch History of the U.S. Army Signal Corps_. University of Michigan Library, 1996, pp. 3–40.
 
@@ -378,7 +378,7 @@ Thompson, Robert L. _Wiring a Continent - The History of the Telegraph Industry 
 
 Plum, William R. _The Military Telegraph during the Civil War in the United States_. Vol. 2. Ayer Company Publishers, 1974. ISBN: 9780405060533.
 
-Bates, David Homer. _Lincoln in the Telegraph Office: Recollections of the United States Military Telegraph Corps during the Civil War_. University of Nebraska Press, 1995. \[Preview with [Google Books](http://books.google.com/books?id=ozZu1hIt_OgC&pg=PAfrontcover)\]
+Bates, David Homer. _Lincoln in the Telegraph Office: Recollections of the United States Military Telegraph Corps during the Civil War_. University of Nebraska Press, 1995. \[Preview with {{% resource_link "00da4240-fc83-44c9-9337-edb1d4fb82c3" "Google Books" %}}\]
 
 *   Bates served in the War Department telegraph office.
 
@@ -401,9 +401,9 @@ Medicine and Public Health
 {{< tdopen >}}
 
 
-Humphreys, Margaret. _Marrow of Tragedy: The Health Crisis of the American Civil War_. Johns Hopkins University Press, 2013. ISBN: 9781421409993. \[Preview with [Google Books](http://books.google.com/books?id=oUgDAAAAQBAJ&pg=PAfrontcover)\]
+Humphreys, Margaret. _Marrow of Tragedy: The Health Crisis of the American Civil War_. Johns Hopkins University Press, 2013. ISBN: 9781421409993. \[Preview with {{% resource_link "53670959-068d-4f96-92b6-36b13418b690" "Google Books" %}}\]
 
-Duffy, John. _From Humors to Medical Science: A History of American Medicine_. University of Illinois Press, 1993. ISBN: 9780252063008. \[Preview with [Google Books](http://books.google.com/books?id=mKa3go3YWn8C&pg=PAfrontcover)\]
+Duffy, John. _From Humors to Medical Science: A History of American Medicine_. University of Illinois Press, 1993. ISBN: 9780252063008. \[Preview with {{% resource_link "ffe2082e-3b2c-4b50-8d0e-63988e4d0958" "Google Books" %}}\]
 
 *   See chapter on Civil War.
 
@@ -433,7 +433,7 @@ Wilbur, C. Keith. _Civil War Medicine_. Globe Pequot Press, 1998. ISBN: 97807627
 
 Beller, Susan Provost. _Medical Practices in the Civil War_. Shoe Tree Press, 1992. ISBN: 9781558702646.
 
-Figg, Laurann, and Jane Farrell-Beck. "[Amputation in the Civil War](http://jhmas.oxfordjournals.org/content/48/4/454.extract)." _Journal of the History of Medicine and Allied Sciences_ 48 (1993): 454–75.
+Figg, Laurann, and Jane Farrell-Beck. "{{% resource_link "e3642baa-42c3-4ca7-8bf3-4cb94b0a3855" "Amputation in the Civil War" %}}." _Journal of the History of Medicine and Allied Sciences_ 48 (1993): 454–75.
 
 Rutkow, Ira M. _Bleeding Blue and Gray: Civil War Surgery and the Evolution of American Medicine_. Random House, 2005. ISBN: 9780375503153.
 
@@ -441,13 +441,13 @@ Coco, Gregory A. _A Vast Sea of Misery: A History and Guide to the Union and Con
 
 Calcutt, Rebecca B. _Richmond's Wartime Hospitals_. Pelican Publishing, 2005. ISBN: 9781589802971.
 
-Hawk, Alan. "[An Amulating Hospital: Or, How the Hospital Train Transformed Army Medicine](http://dx.doi.org/10.1353/cwh.2002.0036)." _Civil War History_ 48, no. 3 (2002): 197–219.
+Hawk, Alan. "{{% resource_link "0de157bb-aa84-4a06-bea7-60a8082128cf" "An Amulating Hospital: Or, How the Hospital Train Transformed Army Medicine" %}}." _Civil War History_ 48, no. 3 (2002): 197–219.
 
 Leonard, Elizabeth D. _Yankee Women: Gender Battles in the Civil War_. W W Norton & Company Incorporations, 1994. ISBN: 9780393036664.
 
-Schultz, Jane E. "[Seldom Thanked, Never Praised, and Scarcely Recognized: Gender and Racism in Civil War Hospitals](http://dx.doi.org/10.1353/cwh.2002.0045)." _Civil War History_ 48, no. 3 (2002): 220–36.
+Schultz, Jane E. "{{% resource_link "786d01ff-5275-4b5d-87db-9a640b46f0c5" "Seldom Thanked, Never Praised, and Scarcely Recognized: Gender and Racism in Civil War Hospitals" %}}." _Civil War History_ 48, no. 3 (2002): 220–36.
 
-Oates, Stephen B. _A Woman of Valor: Clara Barton and the Civil War_. Free Press, 1995. ISBN: 9780028740126. \[Preview with [Google Books](http://books.google.com/books?id=_KQ0Jqs90IMC&pg=PAfrontcover)\]
+Oates, Stephen B. _A Woman of Valor: Clara Barton and the Civil War_. Free Press, 1995. ISBN: 9780028740126. \[Preview with {{% resource_link "dbeff85f-e264-439e-83cc-c327173dc059" "Google Books" %}}\]
 
 Maher, Mary Denis. _To Bind Up the Wounds: Catholic Sister Nurses in the U.S. Civil War_. LSU Press, 1999. ISBN: 9780807124390.
 
@@ -455,13 +455,13 @@ Smith, George W. _Medicines for the Union Army: The United States Army Laborator
 
 Steiner, Paul E. _Disease in the Civil War: Natural Biological Warfare in 1861–1865_. Charles C Thomas Publications Limited, 1968. ISBN: 9780398018528.
 
-Hasegawa, Guy R. _Mending Broken Soldiers: The Union and Confederate Programs to Supply Artificial Limbs_. Southern Illinois University Press, 2012. ISBN: 9780809331307. \[Preview with [Google Books](http://books.google.com/books?id=gpGAqAFjp0sC&pg=PAfrontcover)\]
+Hasegawa, Guy R. _Mending Broken Soldiers: The Union and Confederate Programs to Supply Artificial Limbs_. Southern Illinois University Press, 2012. ISBN: 9780809331307. \[Preview with {{% resource_link "187a393d-dca5-4867-98d6-c9605dfd98e1" "Google Books" %}}\]
 
-Ott, Katherine, David Serlin, and Stephen Mihm, eds. _Artificial Parts, Practical Lives: Modern Histories of Prosthetics_. New York University Press, 2002. ISBN: 9780814761984. \[Preview with [Google Books](http://books.google.com/books?id=cJm2qZw3CdAC&pg=PAfrontcover)\]
+Ott, Katherine, David Serlin, and Stephen Mihm, eds. _Artificial Parts, Practical Lives: Modern Histories of Prosthetics_. New York University Press, 2002. ISBN: 9780814761984. \[Preview with {{% resource_link "073da8f5-8211-4456-9eb0-accb0801a2e0" "Google Books" %}}\]
 
 Fredrickson, George M. _The Inner Civil War: Northern Intellectuals and the Crisis of the Union_. University of Illinois Press, 1993. ISBN: 9780252062742.
 
-Spar, Ira. _New Haven's Civil War Hospital_: _A History of Knight U.S. General Hospital, 1862–1865_. McFarland, 2013. ISBN: 9780786476824. \[Preview with [Google Books](http://books.google.com/books?id=SfTaAQAAQBAJ&pg=PAfrontcover)\]
+Spar, Ira. _New Haven's Civil War Hospital_: _A History of Knight U.S. General Hospital, 1862–1865_. McFarland, 2013. ISBN: 9780786476824. \[Preview with {{% resource_link "adfea981-5e99-4f04-beb4-2ca4ab4272d9" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -481,7 +481,7 @@ Donald, David, ed. _Why the North Won the Civil War_. Collier, 1960.
 
 *   The best starting point for discussion of the subject.
 
-McPherson, James M. Chapters 8-9 in _Drawn With Sword: Reflections on the American Civil War_. Publisher, 1996, pp. 113–50. \[Preview with [Google Books](http://books.google.com/books?id=SlVezQXwA-kC&pg=PAfrontcover)\]
+McPherson, James M. Chapters 8-9 in _Drawn With Sword: Reflections on the American Civil War_. Publisher, 1996, pp. 113–50. \[Preview with {{% resource_link "e006abb6-cd1a-405f-b4ee-e76185d77d36" "Google Books" %}}\]
 
 Cowley, Robert, ed. _With My Face to the Enemy_. Highbridge Audio, 2001, pp. 59–102. ISBN: 9781565114616.
 
@@ -511,7 +511,7 @@ Grimsley, Mark, and Brooks D. Simpson, eds. _The Collapse of the Confederacy_. U
 
 Beringer, Richard E., et al. _Why the South Lost the Civil War_. University of Georgia Press, 1986. ISBN: 9780820308159.
 
-Boritt, Gabor, ed. _Why the Confederacy Lost_. Oxford University Press, 1992. \[Preview with [Google Books](http://books.google.com/books?id=onQoTZ0o-1UC&pg=PAfrontcover)\]
+Boritt, Gabor, ed. _Why the Confederacy Lost_. Oxford University Press, 1992. \[Preview with {{% resource_link "57943995-b6ca-4070-b113-1ce9c9962fe5" "Google Books" %}}\]
 
 Davis, William C. _The Cause Lost: Myths and Realities of the Confederacy_. University Press of Kansas, 1996. ISBN: 9780700608096.
 
@@ -523,9 +523,9 @@ Gallagher, Gary. _The Confederate War_. Harvard University Press, 1997, pp. 3–
 
 Ransom, Roger. Chapter 2 in _The Confederate States of America: What Might Have Been_. W. W. Norton & Company, 2005. ISBN: 9780393059670.
 
-Rafuse, Ethan S. _Robert E._ _Lee and the Fall of the Confederacy, 1863–1865_. Rowman & Littlefield Publishers, 2008. ISBN: 9780742551251. \[Preview with [Google Books](http://books.google.com/books?id=KR51lzhKDwYC&pg=PAfrontcover)\]
+Rafuse, Ethan S. _Robert E._ _Lee and the Fall of the Confederacy, 1863–1865_. Rowman & Littlefield Publishers, 2008. ISBN: 9780742551251. \[Preview with {{% resource_link "0c93baa7-fe30-4cd8-9d85-d9a3ccd688fa" "Google Books" %}}\]
 
-Glatthaar, Joseph T. _General Lee's Army: From Victory to Collapse_. Free Press, 2008. ISBN: 9780684827872. \[Preview with [Google Books](http://books.google.com/books?id=ejRERplU3HkC&pg=PAfrontcover)\]
+Glatthaar, Joseph T. _General Lee's Army: From Victory to Collapse_. Free Press, 2008. ISBN: 9780684827872. \[Preview with {{% resource_link "cdb8783f-99e9-42b5-ad1c-bad26abe68c2" "Google Books" %}}\]
 
 Gallagher, Gary. _The Confederate War_. Harvard University Press, 1997. ISBN: 9780674160552.
 
@@ -555,11 +555,11 @@ Richardson, Heather Cox. _The Death of Reconstruction: Race, Labor, and Politics
 
 Nevins, Allan. _The State Universities and Democracy_. University of Illinois Press, 1962.
 
-Wade, Kathryn L. A. ["The Intent and Fulfillment of the Morrill Act of 1862." (PDF)](https://etd.auburn.edu/xmlui/bitstream/handle/10415/677/WADE_KATHRYN_23.pdf?sequence=1) M. A. Thesis, Auburn University, 2005.
+Wade, Kathryn L. A. {{% resource_link "47f06611-b66c-4d75-a219-3bc61187426b" "\"The Intent and Fulfillment of the Morrill Act of 1862.\" (PDF)" %}} M. A. Thesis, Auburn University, 2005.
 
-Becker, Carl. _Cornell University: Founders and the Founding_. Fall Creek Books, 2010. ISBN: 9780801476150. \[Preview with [Google Books](http://books.google.com/books?id=sW84RjucQG0C&pg=PAfrontcover)\]
+Becker, Carl. _Cornell University: Founders and the Founding_. Fall Creek Books, 2010. ISBN: 9780801476150. \[Preview with {{% resource_link "6e01008c-6087-4e79-b4bd-52a6aa52d44e" "Google Books" %}}\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262113236) Smith, Merritt Roe. "'God Speed the Institute': The Foundational Years, 1861–1894." In _Becoming MIT: Moments of Decision_. Edited by David Kaiser. MIT Press, 2010, pp. 15–36. ISBN: 9780262113236. \[Preview with [Google Books](http://books.google.com/books?id=dXy0b3gHimgC&pg=PA15#v=onepage)\]
+{{% resource_link "32e3e0cf-7e83-422b-ace2-628599d46c7e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Smith, Merritt Roe. "'God Speed the Institute': The Foundational Years, 1861–1894." In _Becoming MIT: Moments of Decision_. Edited by David Kaiser. MIT Press, 2010, pp. 15–36. ISBN: 9780262113236. \[Preview with {{% resource_link "1ab26b16-7eb1-4c77-837e-ea2d0947fe7f" "Google Books" %}}\]
 
 Curry, Leonard P. _Blueprint for Modern America; Non-Military Legislation of the First Civil War Congress_. Vanderbilt University Press, 1968. ISBN: 9780826511171.
 
@@ -573,7 +573,7 @@ White, Richard. _Railroaded: The Transcontinentals and the Making of Modern Amer
 
 Klein, Maury. _Union Pacific: The Birth of a Railroad, 1862–1893_. Doubleday, 1987.
 
-Ambrose, Stephen E. _Nothing Like It in the World: The Men Who Built the Transcontinental Railroad, 1863–1869_. Touchstone Books, 2000. \[Preview with [Google Books](http://books.google.com/books?id=k0av1ysNg0cC&pg=PAfrontcover)\]
+Ambrose, Stephen E. _Nothing Like It in the World: The Men Who Built the Transcontinental Railroad, 1863–1869_. Touchstone Books, 2000. \[Preview with {{% resource_link "c1acd217-6ee1-4080-9681-f7adfd5f009a" "Google Books" %}}\]
 
 International Arms Trade
 
@@ -591,9 +591,9 @@ Roe, Joseph W. _English and American Tool Builders_. Yale University Press, 1916
 
 Hounshell, David A. _From the American System to Mass Production, 1800–1932: The Development of Manufacturing Technology in the United States_. The Johns Hopkins University Press, 1984. ISBN: 9780801829758. For a synopsis of Hounshell's argument, see his "Mass Production in American History, 1800–1932." Polhem 1 (1984): 1–28.
 
-Meyer, David R. _Networked Machinists: High-Technology Industries in Antebellum America_. Johns Hopkins University Press, 2006. ISBN: 9780801884719. \[Preview with [Google Books](http://books.google.com/books?id=3rev1Icp6iwC&pg=PAfrontcover)\]
+Meyer, David R. _Networked Machinists: High-Technology Industries in Antebellum America_. Johns Hopkins University Press, 2006. ISBN: 9780801884719. \[Preview with {{% resource_link "f1d3b2b5-5780-45b6-8c48-39278afc965a" "Google Books" %}}\]
 
-Thomson, Ross. _Structures of Change in the Mechanical Age: Technological Innovation in the United States, 1790–1865_. Johns Hopkins University Press, 2009. ISBN: 9780801891410. \[Preview with [Google Books](http://books.google.com/books?id=sg9jEYUHKRMC&pg=PAfrontcover)\]
+Thomson, Ross. _Structures of Change in the Mechanical Age: Technological Innovation in the United States, 1790–1865_. Johns Hopkins University Press, 2009. ISBN: 9780801891410. \[Preview with {{% resource_link "3a8d7c1f-941b-4f54-a149-bc436bc49e9f" "Google Books" %}}\]
 
 ### The Rise of Modern Management (Controlling the Shop Floor)
 
@@ -619,7 +619,7 @@ Licht, Walter. _Industrializing America: The Nineteenth Century_. Johns Hopkins 
 
 Wrege, Charles D., and Ronald Greenwood. _Frederick W. Taylor: The Father of Scientific Management: Myth and Reality_. Business One Irwin, 1991. ISBN: 9781556235016.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/one-best-way) Kanigel, Robert. _The One Best Way: Frederick Winslow Taylor and the Enigma of Efficiency._ MIT Press, 2005. ISBN: 978026261206.
+{{% resource_link "c6d121db-e061-4671-adfb-4f4d79220ce3" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kanigel, Robert. _The One Best Way: Frederick Winslow Taylor and the Enigma of Efficiency._ MIT Press, 2005. ISBN: 978026261206.
 
 Aitken, Hugh G. J. _Taylorism at Watertown Arsenal: Scientific Management in Action, 1908–1915_. Harvard University Press, 1960.
 
@@ -629,11 +629,11 @@ Aitken, Hugh G. J. _Taylorism at Watertown Arsenal: Scientific Management in Act
 
 Montgomery, David. _Beyond Equality: Labor and the Radical Republicans, 1862–1872_. University of Illinois Press, 1981. ISBN: 9780252008696.
 
-Johnson, Russell L. _Warriors into Workers: The Civil War and the Formation of Urban-Industrial Society in a Northern City_. Fordham University Press, 2003. ISBN: 9780823222698. \[Preview with [Google Books](http://books.google.com/books?id=ahqtg54TXyEC&pg=PAfrontcover)\]
+Johnson, Russell L. _Warriors into Workers: The Civil War and the Formation of Urban-Industrial Society in a Northern City_. Fordham University Press, 2003. ISBN: 9780823222698. \[Preview with {{% resource_link "89ce7de1-c8c4-450c-af2b-2fdcea7a0f24" "Google Books" %}}\]
 
 Gutman, Herbert. _Work, Culture and Society in Industrializing America_. Vintage, 1977. ISBN: 9780394722511.
 
-Palladino, Grace. _Another Civil War: Labor, Capital, and the State in the Anthracite Regions of Pennsylvania, 1840–1868_. Fordham University Press, 2006. ISBN: 9780823225910. \[Preview with [Google Books](http://books.google.com/books?id=aFCSUN_Wi0sC&pg=PAfrontcover)\]
+Palladino, Grace. _Another Civil War: Labor, Capital, and the State in the Anthracite Regions of Pennsylvania, 1840–1868_. Fordham University Press, 2006. ISBN: 9780823225910. \[Preview with {{% resource_link "93ddf907-aa1d-45a4-9871-161f7e4e2941" "Google Books" %}}\]
 
 Wallace, Anthony F. C. Chapter 6 in _St. Clair: A Nineteenth Century Coal Town's Experience with a Disaster-prone Industry_. Knopf, 1987. ISBN: 9780394528670.
 
@@ -643,13 +643,13 @@ Foner, Philip. _The Great Labor Uprising of 1877_. Pathfinder Press, 1977. ISBN:
 
 Bellesiles, Michael. _1877: America's Year of Living Violently_. New Press, 2012.
 
-Stowell, David O. _Streets, Railroads, and the Great Strike of 1877_. University of Chicago Press, 1999. ISBN: 9780226776699. \[Preview with [Google Books](http://books.google.com/books?id=r6eATa0q1RQC&pg=PAfrontcover)\]
+Stowell, David O. _Streets, Railroads, and the Great Strike of 1877_. University of Chicago Press, 1999. ISBN: 9780226776699. \[Preview with {{% resource_link "d060fe24-99e5-4a09-b13c-e7bb30b1dbd5" "Google Books" %}}\]
 
-Avrich, Paul. _The Haymarket Tragedy_. Princeton University Press, 1984. ISBN: 9780691047119. \[Preview with [Google Books](http://books.google.com/books?id=I_ACtktp3ecC&pg=PAfrontcover)\]
+Avrich, Paul. _The Haymarket Tragedy_. Princeton University Press, 1984. ISBN: 9780691047119. \[Preview with {{% resource_link "15982a2e-fd6a-4580-9e71-a3226952265b" "Google Books" %}}\]
 
 Green, James. _Death in the Haymarket: A Story of Chicago, the First Labor Movement, and the Bombing That Divided Gilded Age America_. Pantheon, 2006. ISBN: 9780375422379.
 
-Krause, Paul. _The Battle for Homestead, 1880–1892: Politics, Culture, and Steel_. University of Pittsburgh Press, 1992. ISBN: 9780822954668. \[Preview with [Google Books](http://books.google.com/books?id=SQKSCgAAQBAJ&pg=PAfrontcover)\]
+Krause, Paul. _The Battle for Homestead, 1880–1892: Politics, Culture, and Steel_. University of Pittsburgh Press, 1992. ISBN: 9780822954668. \[Preview with {{% resource_link "4cd311d6-6479-4b3c-8ab7-a6dd3d6cbd49" "Google Books" %}}\]
 
 Buder, Stanley. _Pullman: An Experiment in Industrial Order and Community Planning, 1880–1930_. Oxford University Press, 1967.
 
@@ -659,17 +659,17 @@ Hayes, Samuel. _The Response to Industrialism 1885–1914_. University of Chicag
 
 Cochran, Thomas C. "Did the Civil War Retard Industrialization?" In _Views of American Economic Growth_. Vol. 1. Edited by Thomas C. Cochran and Thomas B. Brewer. McGraw-Hill, 1966, pp. 252–61. ASIN: B000YIX6KO.
 
-Warren, Robert Penn. _The Legacy of the Civil War. Meditations on the Civil War_. Random House, 1961. \[Preview with [Google Books](http://books.google.com/books?id=XqeuuNIfydwC&pg=PAfrontcover)\]
+Warren, Robert Penn. _The Legacy of the Civil War. Meditations on the Civil War_. Random House, 1961. \[Preview with {{% resource_link "0248141a-f29b-42ce-8b86-019a3fc4d242" "Google Books" %}}\]
 
 Luvaas, Jay. _The Military Legacy of the Civil War: The European Inheritance_. University Press of Kansas, 1988, pp. ix–xxx, 1–13, and 203–33. ISBN: 9780700603794.
 
 O'Brien, Patrick. Chapters 1 and 6–7 in _The Economic Effects of the American Civil War_. Humanities Press, 1988. ISBN: 9780391035614.
 
-Bruchey, Stuart. Chapter 9 in _Enterprise: The Dynamic Economy of a Free People_. Harvard University Press, 1990, pp. 254–80. ISBN: 9780674257467. \[Preview with [Google Books](http://books.google.com/books?id=IBZZZXuoF2IC&pg=PA254#v=onepage)\]
+Bruchey, Stuart. Chapter 9 in _Enterprise: The Dynamic Economy of a Free People_. Harvard University Press, 1990, pp. 254–80. ISBN: 9780674257467. \[Preview with {{% resource_link "5baf2e80-ec19-45e0-8c81-d67791dc16a0" "Google Books" %}}\]
 
 Schivelbusch, Wolfgang. _The Culture of Defeat: On National Trauma, Mourning and Recovery_. Granta Books, 2003, pp. 1–101.
 
-Gallagher, Gary, and Alan T. Nolan. _The Myth of the Lost Cause and Civil War History_. Indiana University Press, 2000. ISBN: 9780253338228. \[Preview with [Google Books](http://books.google.com/books?id=5SJvUWYDBhUC&pg=PAfrontcover)\]
+Gallagher, Gary, and Alan T. Nolan. _The Myth of the Lost Cause and Civil War History_. Indiana University Press, 2000. ISBN: 9780253338228. \[Preview with {{% resource_link "6e80bcdd-28c5-419b-8924-8ed9c152a549" "Google Books" %}}\]
 
 
 {{< tdclose >}}
