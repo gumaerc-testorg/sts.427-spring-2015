@@ -3,7 +3,7 @@ content_type: resource
 description: Thumbnail of a photo of a group of Civil War reenacters firing a cannon,
   one of the most widely-used weapons of the time. Image courtesy of Jay Williams
   on Flickr. CC BY-NC-SA 2.0.
-file: /ol-ocw-studio-app/courses/sts-427-the-civil-war-and-the-emergence-of-modern-america-1861-1890-spring-2015/d0a9e2b45b2d25664f87135d5f1ae3b1_sts-427s15-th.jpg
+file: /courses/sts-427-the-civil-war-and-the-emergence-of-modern-america-1861-1890-spring-2015/d0a9e2b45b2d25664f87135d5f1ae3b1_sts-427s15-th.jpg
 file_size: 11801
 file_type: image/jpeg
 image_metadata:
