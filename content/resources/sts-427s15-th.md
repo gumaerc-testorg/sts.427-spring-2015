@@ -8,8 +8,8 @@ file_size: 11801
 file_type: image/jpeg
 image_metadata:
   caption: A group of Civil War reenacters fire a cannon, one of the most widely-used
-    weapons of the time. (Image courtesy of [Jay Williams](https://www.flickr.com/photos/differentview/3415885853/)
-    on Flickr. CC BY-NC-SA 2.0.)
+    weapons of the time. (Image courtesy of {{% resource_link "7282e4d7-22f2-46d4-b06c-c6d45a62c5ca"
+    "Jay Williams" %}} on Flickr. CC BY-NC-SA 2.0.)
   credit: Image courtesy of Jay Williams on Flickr. CC BY-NC-SA 2.0.
   image-alt: A photograph of a group of people, dressed in Civil War uniforms, standing
     by a cannon. The cannon has just gone off.
